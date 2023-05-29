@@ -15,5 +15,11 @@ Projects Contains in this Repository are as follows:-
 
 ## Selenium
 
-1. House of Dragon using Selenium
-2. 
+1. House of Dragon website scraping using Selenium
+2. Nike Website webscraping using selenium
+
+
+## API (Application programming interface)
+
+1. Weather Information of any state using Python and Weather API
+2. Youtube channel's scraping using Youtube API
